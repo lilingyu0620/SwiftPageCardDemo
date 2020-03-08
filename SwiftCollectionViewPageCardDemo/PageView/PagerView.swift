@@ -1,10 +1,11 @@
 //
 //  PageView.swift
-//  DokiDokiLive
+//  SwiftCollectionViewPageCardDemo
 //
-//  Created by zhangbangjun on 2019/1/10.
-//  Copyright © 2019 Pusic. All rights reserved.
+//  Created by lly on 2019/1/10.
+//  Copyright © 2019 lly All rights reserved.
 //
+
 
 import UIKit
 
